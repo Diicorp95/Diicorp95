@@ -3,3 +3,5 @@ Inspired memories about/nostalgy for late 90s Assembler coding club. We're coded
 
 <img alt="" src="https://raw.githubusercontent.com/Diicorp95/Diicorp95/master/digital.gif">
 :copyright: 1041uuu
+
+<!-- "main" branch -->
