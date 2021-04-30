@@ -21,7 +21,7 @@ Waiting for Half-Decay
 Oh, Gordon! (unpublished)
 Escape from Black Mesa
 
-Filename: "DirBeer - Ah, Black Mesa.wav"
+Filename: "Ah, Black Mesa.wav"
 Format: WAVE, 16-bit, Microsoft format, uncompressed
 Download: https://yadi.sk/d/fmyMuITHoQGMHQ
 --
