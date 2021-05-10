@@ -1,2 +1,2 @@
 # С. Зубков
-## Assembler для DOS, Windows и UNIX
+Assembler для DOS, Windows и UNIX
