@@ -10,4 +10,6 @@ body {
 	font-size: 16pt;
 	font-weight: normal;
 	text-decoration: none;
+	color: #E8E8E8;
+	text-shadow: 2px 2px 1px #8080FE;
 }
