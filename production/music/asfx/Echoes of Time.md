@@ -6,8 +6,8 @@
 # Informative Notice
 Playlist:
 * Space Oceans of Time (edited)
-* * Waiting for Half-Decay
-* * Oh, Gordon! (unpublished)
-* * Escape from Black Mesa
+  * Waiting for Half-Decay
+  * Oh, Gordon! (unpublished)
+  * Escape from Black Mesa
 
 Mix down :copyright: Diicorp95, 2019-2021 in producing them. **UNLICENSE license.**
