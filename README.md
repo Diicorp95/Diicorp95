@@ -1,5 +1,5 @@
 # <img alt="" src="https://win98icons.alexmeub.com/icons/png/tip.png">&nbsp;github/Diicorp95
-Inspired memories about/nostalgy for late 90s Assembler coding club. We're coded for 16-bit, Windows 9x. A reason why I've used Windows 98 icons around this repository.
+Inspired memories about/nostalgy for late 90s Assembler coding club. We're coded for 16-bit, Windows 9x. The reason why I've used Windows 98 icons around this repository.
 
 [All repositories of Diicorp95](https://github.com/search?q=user%3ADiicorp95+&type=)
 
