@@ -28,3 +28,9 @@
 --><img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen26.png" width="300" height="auto"><br>
 <img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen27.png" width="300" height="auto">&nbsp;<!--
 --><img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen28.png" width="300" height="auto"><br>
+<img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen29.png" width="300" height="auto">&nbsp;<!--
+--><img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen30.png" width="300" height="auto"><br>
+<img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen31.png" width="300" height="auto">&nbsp;<!--
+--><img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen32.png" width="300" height="auto"><br>
+<img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen33.png" width="300" height="auto">&nbsp;<!--
+--><img alt="" src="https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/screenshots/games/game001_screen34.png" width="300" height="auto"><br>
