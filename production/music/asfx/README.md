@@ -1,4 +1,4 @@
-# <img alt="" src="https://win98icons.alexmeub.com/icons/png/wia_img_gray-1.png">&nbsp;Atmospheric Sound Effects
+# ![](https://win98icons.alexmeub.com/icons/png/loudspeaker_wave-0.png)&nbsp;Atmospheric Sound Effects
 These audio files were created for nostalgia; anemoia; for senses of physical and moral influence; to bring feelings of different odors;
 
 List:
