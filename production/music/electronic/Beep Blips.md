@@ -1,5 +1,5 @@
-## Beep Blips
-Another song of irony about my profile link. At the middle of track, "What is Beep Blips?" vocoded voice can be heard. I have used following sounds:
+## ![](https://github.com/Diicorp95/Diicorp95/raw/main/production/music/electronic/Beep%20Blips.jpg)<br>Beep Blips
+Another song of irony. Now, it's about my profile link. At the middle of track, "What is Beep Blips?" vocoded voice can be heard. I have used following sounds:
 * [FreeSound: **#20219** from **modcam**](https://freesound.org/people/modcam/sounds/20219/)
 * [FreeSound: **#140146** from **Tewkesound**](https://freesound.org/people/Tewkesound/sounds/140146/)
 * [TF2: **vo/sniper_specialcompleted36.mp3**](https://wiki.teamfortress.com/wiki/Sniper_responses)
