@@ -1,4 +1,6 @@
 # ![](https://win98icons.alexmeub.com/icons/png/tip.png)&nbsp;github/Diicorp95
+![](https://win98icons.alexmeub.com/icons/png/message_empty_tack-1.png)&nbsp;[Feedback](#feedback)
+
 ![](https://win98icons.alexmeub.com/icons/png/directory_closed-2.png)&nbsp;[All repositories of Diicorp95](https://github.com/search?q=user%3ADiicorp95+&type=)<br>
 ![](https://win98icons.alexmeub.com/icons/png/directory_closed-2.png)&nbsp;[My creative production non-related directly to programming](https://github.com/Diicorp95/Diicorp95/blob/main/production/README.md)<br>
 ![](https://win98icons.alexmeub.com/icons/png/directory_closed-2.png)&nbsp;[Software archive](https://github.com/Diicorp95/Diicorp95/blob/main/software-archiving/README.md)<br>
@@ -17,5 +19,9 @@ Inspired memories about/nostalgy for late 90s Assembler coding club. We're coded
 
 ![1041uuu's art - rain at Japan, railways](https://raw.githubusercontent.com/Diicorp95/Diicorp95/master/digital.gif)<br>
 :copyright: 1041uuu
+<hr>
 
+## ![](https://win98icons.alexmeub.com/icons/png/winrep-1.png)&nbsp;Feedback
+![](https://win98icons.alexmeub.com/icons/png/message_envelope_open-1.png)&nbsp;[larry.holst@disroot.org](mailto:larry.holst@disroot.org)<br>
+![](https://win98icons.alexmeub.com/icons/png/message_envelope_open-1.png)&nbsp;[kotman2000@yandex.com](mailto:kotman2000@yandex.com)<br>
 <!-- "main" branch -->
