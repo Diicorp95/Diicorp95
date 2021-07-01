@@ -1,6 +1,23 @@
 # ![](https://win98icons.alexmeub.com/icons/png/computer_2_cool-0.png) Software archiving
 All of present files were distributed freely, because it's freeware, abandonware, or other free-to-share license. Maybe, they're cracked paid programs/games.
 
+### foton.zip
+:ru: **FOTON *version 1.00*** the software for x86 PC, DOS was developed by [*VNIINSoft*](https://www.vniins.ru/index.php?lang=Eng) in Moscow, Russia.
+
+[Nostalgy.Net.Ru](http://nostalgy.net.ru) description (translated):
+> This is an old, but functional text editor created back in 1989 in Russia on the basis of Multi-Edit. It is completely in Russian and easy to learn, but it has great features (at least for 1989!)
+
+Random fact: I found this software while browsing [Nostalgy.Net.Ru](http://nostalgy.net.ru)
+
+Constantly verified download links:
+* [**GitHub**](https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/foton-10.zip)
+* [**Diicorp95.neonarod.com (no SSL)**](http://diicorp95.neonarod.com/files/foton-10.zip)
+
+### antiword-033.zip
+:gb: [AntiWord for DOS](http://www.winfield.demon.nl/#DOS).
+
+Random fact: I found this software while browsing [Nostalgy.Net.Ru](http://nostalgy.net.ru)
+
 ### amaze.zip
 :gb: **Amaze *version 2.1*** the video game for x86 PC, DOS was developed by *Servile Software*.
 Russified executable.
