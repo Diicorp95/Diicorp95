@@ -1,5 +1,5 @@
 # ![](https://win98icons.alexmeub.com/icons/png/computer_2_cool-0.png) Software archiving
-All of present files were distributed freely. Maybe, they're cracked paid programs/games.
+All of present files were distributed freely, because it's freeware, abandonware, or other free-to-share license. Maybe, they're cracked paid programs/games.
 
 ### counter-strike-com-ua_Half-Life_v4554.zip
 :ru: [Half-Life (1998)](https://en.wikipedia.org/wiki/Half-life).
