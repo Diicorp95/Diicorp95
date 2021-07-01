@@ -6,3 +6,4 @@ Patrick Jankowiak — **"Cathode Ray Tube Phosphor Of Interest To The Experiment
 
 Constantly verified download links:<br>
 * [**LabGuy's World**](https://www.labguysworld.com/crt_phosphor_research.pdf)
+* [**GitHub**](https://github.com/Diicorp95/Diicorp95/raw/main/documents-archiving/crt_phosphor_research.pdf)
