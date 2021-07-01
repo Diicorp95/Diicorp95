@@ -1,7 +1,18 @@
 # ![](https://win98icons.alexmeub.com/icons/png/computer_2_cool-0.png) Software archiving
 All of present files were distributed freely, because it's freeware, abandonware, or other free-to-share license. Maybe, they're cracked paid programs/games.
 
-### foton.zip
+### uued.zip
+:gb: [UU-ENCODE; UU-DECODE](http://www.chebucto.ns.ca/~am074/tn951201.html) *version 5.24*.
+UU encoding/decoding utility for DOS.
+**UU-ENCODE; UU-DECODE** the software for x86 PC, [DOS](https://en.wikipedia.org/wiki/DOS) was developed by *Richard Marks*.
+
+Random fact: I found this software while browsing [Nostalgy.Net.Ru](http://nostalgy.net.ru)
+
+Constantly verified download links:
+* [**GitHub**](https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/uued.zip)
+* [**Diicorp95.neonarod.com (no SSL)**](http://diicorp95.neonarod.com/files/uued.zip)
+
+### foton-10.zip
 :ru: **FOTON *version 1.00*** the software for x86 PC, DOS was developed by [*VNIINSoft*](https://www.vniins.ru/index.php?lang=Eng) in Moscow, Russia.
 
 [Nostalgy.Net.Ru](http://nostalgy.net.ru) description (translated):
@@ -12,11 +23,17 @@ Random fact: I found this software while browsing [Nostalgy.Net.Ru](http://nosta
 Constantly verified download links:
 * [**GitHub**](https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/foton-10.zip)
 * [**Diicorp95.neonarod.com (no SSL)**](http://diicorp95.neonarod.com/files/foton-10.zip)
+* [**Nostalgy.Net.Ru (no SSL)**](http://nostalgy.net.ru/edit/foton.zip)
 
 ### antiword-033.zip
-:gb: [AntiWord for DOS](http://www.winfield.demon.nl/#DOS).
+:gb: [**AntiWord for DOS**](http://www.winfield.demon.nl/#DOS).
 
-Random fact: I found this software while browsing [Nostalgy.Net.Ru](http://nostalgy.net.ru)
+Random fact: I found this software while browsing [Nostalgy.Net.Ru](http://nostalgy.net.ru/edit.shtm)
+
+Constantly verified download links:
+* [**GitHub**](https://github.com/Diicorp95/Diicorp95/raw/main/software-archiving/antiword-033.zip)
+* [**Diicorp95.neonarod.com (no SSL)**](http://diicorp95.neonarod.com/files/antiword-033.zip)
+* [**Nostalgy.Net.Ru (no SSL)**](http://nostalgy.net.ru/edit/antiword-033.zip)
 
 ### amaze.zip
 :gb: **Amaze *version 2.1*** the video game for x86 PC, DOS was developed by *Servile Software*.
