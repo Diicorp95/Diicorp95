@@ -3,6 +3,7 @@ All of present files were distributed freely, because it's freeware, abandonware
 
 ### amaze.zip
 :gb: **Amaze *version 2.1*** the video game for x86 PC, DOS was developed by *Servile Software*.
+Russified executable.
 
 `amaze.txt` quote
 > Amaze is an artificial intelligence for testing the solvability in mazes.
