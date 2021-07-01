@@ -24,6 +24,7 @@ Inspired memories about/nostalgy for late 90s Assembler coding club. We're coded
 ## ![](https://win98icons.alexmeub.com/icons/png/winrep-1.png)&nbsp;Feedback
 ![](https://win98icons.alexmeub.com/icons/png/message_envelope_open-1.png)&nbsp;[larry.holst@disroot.org](mailto:larry.holst@disroot.org)<br>
 ![](https://win98icons.alexmeub.com/icons/png/message_envelope_open-1.png)&nbsp;[kotman2000@yandex.com](mailto:kotman2000@yandex.com)<br>
+![](https://win98icons.alexmeub.com/icons/png/msn3-2.png)&nbsp;[4pda QMS](https://4pda.to/forum/index.php?act=qms&mid=7640449)<br>
 ![](https://win98icons.alexmeub.com/icons/png/msn3-2.png)&nbsp;[Discord Bio](https://dsc.bio/diicorp95)<br>
 ![](https://win98icons.alexmeub.com/icons/png/msn3-2.png)&nbsp;[Reddit → Chat](https://reddit.com/u/Diicorp95)
 <!-- "main" branch -->
