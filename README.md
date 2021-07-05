@@ -1,6 +1,8 @@
 # ![](https://win98icons.alexmeub.com/icons/png/tip.png)&nbsp;github/Diicorp95
 ![](https://win98icons.alexmeub.com/icons/png/message_empty_tack-1.png)&nbsp;[Feedback](#feedback)
 
+### [*Audacity* is a spyware now! Read this, please!](https://fosspost.org/audacity-fork-needs-help/)
+
 ![](https://win98icons.alexmeub.com/icons/png/directory_closed-2.png)&nbsp;[All repositories of Diicorp95](https://github.com/search?q=user%3ADiicorp95+&type=)<br>
 ![](https://win98icons.alexmeub.com/icons/png/directory_closed-2.png)&nbsp;[My creative production non-related directly to programming](https://github.com/Diicorp95/Diicorp95/blob/main/production/README.md)<br>
 ![](https://win98icons.alexmeub.com/icons/png/directory_closed-2.png)&nbsp;[Software archive](https://github.com/Diicorp95/Diicorp95/blob/main/software-archiving/README.md)<br>
